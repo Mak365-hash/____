@@ -1,0 +1,4 @@
+if game.placeId == 4616652839 then
+print("SL2")
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Mak365-hash/____/main/____________________________"),true))()
+end
